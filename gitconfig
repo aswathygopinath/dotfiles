@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aswathy.gopinath@outlook.com
+	name = aswathy gopinath
